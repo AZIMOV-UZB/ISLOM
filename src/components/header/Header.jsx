@@ -51,9 +51,7 @@ const Header = () => {
                   searchFocus ? "" : "hidden"
                 }`}
               >
-                <ul className="flex flex-col gap-4 ml-1 text-[13px] ">
-                  {searchRes?.products?.map((product) => product.title)}
-                </ul>
+             
               </div>
             </div>
           </div>
