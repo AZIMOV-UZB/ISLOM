@@ -10,7 +10,6 @@ import bookk from "../../asset/74.png"
 import bookkk from "../../asset/75.png"
 import shov from "../../asset/76.png"
 import shovv from "../../asset/77.png"
-import shovv from "../../asset/77.png"
 
 
 export const Afto = () => {
